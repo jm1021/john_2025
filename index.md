@@ -63,13 +63,18 @@ This blog contains my journey into Coding.
             Turtle v0.3
         </div>
     </a>
+    <a href="{{site.baseurl}}/experiment/message" style="text-decoration: none;">
+        <div style="background-color: #12ABFF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Message Box 0.1
+        </div>
+    </a>
 </div>
 
 <br>
 
 ### Student Lessons
 
-> Here is my preparation for college topics, click to review my blogs
+> Here is my preparation for college articulation topics, click to review my blogs
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
@@ -85,15 +90,3 @@ This blog contains my journey into Coding.
 </div>
 
 <br>
-
-### Game Experiments
-
-> These are that make it to creation not necessarily will be added
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/experiment/message" style="text-decoration: none;">
-        <div style="background-color: #12ABFF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Message Box 0.1
-        </div>
-    </a>
-</div>
