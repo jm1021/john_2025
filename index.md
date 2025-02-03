@@ -64,11 +64,10 @@ This blog contains my journey into Coding.
         </div>
     </a>
 </div>
-</div>
 
 <br>
 
-### College Articulation
+### Student Lessons
 
 > Here is my preparation for college topics, click to review my blogs
 
