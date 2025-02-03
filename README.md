@@ -1,12 +1,8 @@
 # Introduction
 
-This is a custom project derived from Nighthawk Pages. It is a personal adaptation and is intended to contain summary of my summary of classroom tech talks and my personal coding work.
+This is a custom project derived from Nighthawk Pages. It is a personal adaptation and is intended to contain summary of my classroom tech talks and my personal coding work in JavaScript.
 
-This project is customized to support my computer science learnings of using Javascript, Python, and Java. 
-
-As a student in Del Norte CompSci I am required to revise my personal GitHub Pages at each midterm and final.  My GitHub pages does and will contain a compilation of personal work performed within each grading period (Sprint)
-
-In general, this blog does and will contain lessons, hacks, coding work (JavaScript, Python, and Java).   The project also serves function of presenting games and the frontend of full-stack applications.
+As a student in Del Norte CompSci I am required to revise my personal GitHub Pages at each sprint and final.  My GitHub pages does and will contain a compilation of personal work performed within each grading period (Sprint)
 
 ---
 
@@ -16,21 +12,21 @@ Exchanging information between others using similar Nighthawk Pages projects...
 
 1. sharing a file:  `wget "raw-link.ipynb"
 2. dragging and dropping files between VSCode projects
-2. creating a template from this repository, making a pull request
-3. sharing a fork of this project amongst team members
-4. etc.
+3. creating a template from this repository, making a pull request
+4. sharing a fork of this project amongst team members
+5. etc.
 
 ---
 
 ## History
 
-This project is created from [Nighthawk Coders](https://github.com/nighthawkcoders/student_2025) 
+This project is created from [Nighthawk Coders](https://github.com/nighthawkcoders/student_2025)
 
-The project was initially based on Fastpages. But this project has diverged from those roots into an independent entity.  The decision to separate from Fastpages was influenced by the deprecation of Fastpages by authors.  It is believed by our community that the authors of fastpages turned toward Quatro.  After that change of direction fastpages did not align with the Teacher's goals and student needs. The Nighthawk Pages project has more of a raw development blogging need.
+The project was initially based on Fastpages. But this project has diverged from those roots into an independent entity.  The decision to separate from Fastpages was influenced by the deprecation of Fastpages by authors.  It is believed by our community that the authors of fastpages turned toward Quatro.  After that change of direction fastpages did not align with the Teacher's goals and student needs. The Nighthawk Pages project has is focused on raw development and blogging needs.
 
 ### License
 
-The [Apache license](https://github.com/nighthawkcoders/student_2025/blob/main/LICENSE) has its roots in Fastpages.  Thus, it carries Appache license forward.  However, most of the code is likely unrecognizable from those roots.
+The [Apache license](https://github.com/nighthawkcoders/student_2025/blob/main/LICENSE) has its roots in Fastpages.  Thus, it carries Appache license forward.  However, Nighthawk Pages code is likely unrecognizable from those roots.
 
 ### Key Features
 
